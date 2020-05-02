@@ -1,0 +1,115 @@
+commit 25fe49abf74667b4b9290dfaa6aec34885e474ad
+Merge: b864c62 3ce9ee8
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 11:45:06 2020 -0400
+
+    Merge branch 'features2' into dev
+
+commit 3ce9ee81dd008504f12e3b67fbd4be06a36d014a
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 11:44:41 2020 -0400
+
+    caracteristica15-R2
+
+commit a6b4b0fd5c509c90a275002a1de60cbbe7ada5d9
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 11:44:04 2020 -0400
+
+    caracteristica14-R2
+
+commit 20f747459cbdc6be5f6fc8232127f710f3c8f32e
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 11:36:42 2020 -0400
+
+    caracteristica13-R2
+
+commit 5c82a0b2edfc06ba644ded2756b0d4a28389530d
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 11:32:51 2020 -0400
+
+    caracteristica5 corregida
+
+commit 44e11cb196746c7d1eb0f92c953fd78bab89c1ee
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 10:51:38 2020 -0400
+
+    caracteristica12-R2
+
+commit bd444a83e58a008fc1d48336ccc002a8f0d5f80c
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 10:50:56 2020 -0400
+
+    caracteristica11-R2
+
+commit 1638669c721c8ec1a888a264c847b21bae236a09
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 10:34:31 2020 -0400
+
+    caracteristica10-r2
+
+commit 4d57f4ad6ddedcf7db053510bf8a6db0782b1c5e
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 10:33:48 2020 -0400
+
+    caracteristica9-r2
+
+commit cd2f910887ad95066654def9de4c5781745ea4c1
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 10:33:14 2020 -0400
+
+    caracteristica8-r2
+
+commit 3698a3bbfd0c960665e61452515335604d5ec1df
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 10:13:42 2020 -0400
+
+    caracteristica7-R2
+
+commit 5c3cc5a5d3c34c2f6c69d61cd2d96b572adfc64c
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 10:01:56 2020 -0400
+
+    caracteristica6-R2
+
+commit b864c62cc3fa08522cc0eb15a7a81692423d9d8a
+Merge: 5cd6ddc 4fac594
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 08:57:51 2020 -0400
+
+    Merge branch 'features1' into dev
+
+commit 4fac594d3526883c99ae8e8e9310458276420aa7
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 08:54:11 2020 -0400
+
+    caracteristica5-R1
+
+commit 6b20137fb1abca13d786d1186e01c722b7e6eccf
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 08:53:19 2020 -0400
+
+    caracteristica4-R1
+
+commit 7be7fd735dcf761bea26ac8f27d1ac9eada9499f
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 08:51:55 2020 -0400
+
+    caracteristica3-R1
+
+commit f0fd776f37231d882764ef257b0c3b96f549fdbd
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 08:50:36 2020 -0400
+
+    caracteristica2-R1
+
+commit 2860f9fb06ed0db034647d1fabf52cd76150c1d1
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 08:48:31 2020 -0400
+
+    caracteristica 1-R1
+
+commit 5cd6ddc5d0dbf00a0f93907a007df0192c7284a2
+Author: Nathaly <gnathaly1210@gmail.com>
+Date:   Sat May 2 08:25:59 2020 -0400
+
+    inicioProyecto

@@ -8,3 +8,5 @@ anvorguesa
 anvorguesaa
 ##caracteristica5
 anvorguesaaa
+##caracteristica6
+anvorguesaaaa
